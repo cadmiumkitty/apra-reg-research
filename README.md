@@ -8,18 +8,18 @@ One way to learn about APRA reagulatory landscape is to look at the list of [APR
 
 This is a simple BeautifulSoup-based scraper that creates a single CSV file with the following columns:
 
-| Column        | Example                                  |
-| ------------- | ---------------------------------------- |
-| `Industry`    | `Authorised deposit-taking institutions` |
-| `Section`     | `Governance`                             |
-| `Series`      | `310`                                    |
-| `Standard`    | `Audit and Related Matters`              |
-| `Status`      | `In Force`                               |
-| `Status Date` |                                          |
-| `Type`        | `CPS`, `CPG`                             |
-| `Title`       | `APS 310 Audit and related matters`      |
-| `Description` |                                          |
-| `Link`        |                                          |
+| Column      | Example                                |
+| ----------- | -------------------------------------- |
+| Industry    | Authorised deposit-taking institutions |
+| Section     | Governance                             |
+| Series      | 310                                    |
+| Standard    | Audit and Related Matters              |
+| Status      | In Force                               |
+| Status Date |                                        |
+| Type        | CPS, CPG                               |
+| Title       | APS 310 Audit and related matters      |
+| Description |                                        |
+| Link        |                                        |
 
 ## Attribution and Disclaimer
 
